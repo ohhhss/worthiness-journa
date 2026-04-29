@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/2909/2909241.png" width="80" alt="logo" />
 </p>
-
+<i class="fi fi-rs-book-bookmark"></i>
 <h1 align="center">Worthiness Journal · 值得日记</h1>
 
 <p align="center">
@@ -91,11 +91,9 @@ The dev server runs at `http://localhost:3000`.
 
 ## 🔒 Privacy
 
-No data ever leaves your device. The app does not use any backend, database, or analytics service. All diary entries, images, and settings are stored exclusively in your browser's IndexedDB. The "AI" affirmations are local keyword-matching — no external API calls.
+No data ever leaves your device. The app does not use any backend, database, or analytics service. All diary entries, images, and settings are stored exclusively in your browser's IndexedDB. 
 
-## 📝 License
 
-MIT
 
 ---
 
