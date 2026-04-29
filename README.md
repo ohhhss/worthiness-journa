@@ -50,7 +50,13 @@ The app is fully functional offline, installable as a PWA on mobile and desktop,
 | Hosting | Netlify |
 
 ## 🚀 Getting Started
+<p align="center">
+  <a href="https://6939027723fc95152710585f--12345rj.netlify.app/"><strong>Live Demo →</strong></a>
+  &nbsp;&nbsp;
+  <a href="#tech-stack"><strong>Tech Stack →</strong></a>
+</p>
 
+OR
 ```bash
 # Clone the repo
 git clone https://github.com/ohhhss/worthiness-journal.git
