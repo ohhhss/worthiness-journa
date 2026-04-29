@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/2909/2909241.png" width="80" alt="logo" />
+  <img src="https://www.flaticon.com/free-icon-font/book-bookmark_7720291?related_id=7720291" width="80" alt="logo" />
 </p>
-<i class="fi fi-rs-book-bookmark"></i>
+
 <h1 align="center">Worthiness Journal · 值得日记</h1>
 
 <p align="center">
